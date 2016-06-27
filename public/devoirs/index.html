@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+  
+  
+  
+  
+   <html class="no-js"> 
+
+  <head lang="fr-fr">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
+    <title>Les Devoirs - Utiliser Google Classroom</title>
+    <meta name="generator" content="Hugo 0.16" />
+
+    
+    <meta name="description" content="Une documentation sur Google Classroom pour démarrer rapidement sa classe virtuelle.">
+    
+    <link rel="canonical" href="https://sylcha.github.io/devoirs/">
+    
+    <meta name="author" content="Sylvain">
+    
+
+    <meta property="og:url" content="https://sylcha.github.io/devoirs/">
+    <meta property="og:title" content="Utiliser Google Classroom">
+    <meta property="og:image" content="https://sylcha.github.io/images/profil_image.jpg">
+    <meta name="apple-mobile-web-app-title" content="Utiliser Google Classroom">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://sylcha.github.io/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="https://sylcha.github.io/images/favicon.ico">
+
+    <style>
+      @font-face {
+        font-family: 'Icon';
+        src: url('https://sylcha.github.io/fonts/icon.eot?52m981');
+        src: url('https://sylcha.github.io/fonts/icon.eot?#iefix52m981')
+               format('embedded-opentype'),
+             url('https://sylcha.github.io/fonts/icon.woff?52m981')
+               format('woff'),
+             url('https://sylcha.github.io/fonts/icon.ttf?52m981')
+               format('truetype'),
+             url('https://sylcha.github.io/fonts/icon.svg?52m981#icon')
+               format('svg');
+        font-weight: normal;
+        font-style: normal;
+      }
+    </style>
+
+    <link rel="stylesheet" href="https://sylcha.github.io/stylesheets/application.css">
+    <link rel="stylesheet" href="https://sylcha.github.io/stylesheets/temporary.css">
+    <link rel="stylesheet" href="https://sylcha.github.io/stylesheets/palettes.css">
+    <link rel="stylesheet" href="https://sylcha.github.io/stylesheets/highlight/highlight.css">
+
+    
+    
+    
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Dosis:400,700|Dosis%2bMono">
+    <style>
+      body, input {
+        font-family: 'Dosis', Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: 'Dosis Mono', 'Courier New', 'Courier', monospace;
+      }
+    </style>
+
+    
+    <script src="https://sylcha.github.io/javascripts/modernizr.js"></script>
+
+    
+
+  </head>
+  <body class="palette-primary-red palette-accent-light green">
+
+
+
+	
+	
+
+
+<div class="backdrop">
+	<div class="backdrop-paper"></div>
+</div>
+
+<input class="toggle" type="checkbox" id="toggle-drawer">
+<input class="toggle" type="checkbox" id="toggle-search">
+<label class="toggle-button overlay" for="toggle-drawer"></label>
+
+<header class="header">
+	<nav aria-label="Header">
+  <div class="bar default">
+    <div class="button button-menu" role="button" aria-label="Menu">
+      <label class="toggle-button icon icon-menu" for="toggle-drawer">
+        <span></span>
+      </label>
+    </div>
+    <div class="stretch">
+      <div class="title">
+        Les Devoirs
+      </div>
+    </div>
+
+    
+
+    
+    <div class="button button-github" role="button" aria-label="GitHub">
+      <a href="https://github.com/sylcha" title="@sylcha on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
+    </div>
+    
+
+    
+  </div>
+  <div class="bar search">
+    <div class="button button-close" role="button" aria-label="Close">
+      <label class="toggle-button icon icon-back" for="toggle-search"></label>
+    </div>
+    <div class="stretch">
+      <div class="field">
+        <input class="query" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck>
+      </div>
+    </div>
+    <div class="button button-reset" role="button" aria-label="Search">
+      <button class="toggle-button icon icon-close" id="reset-search"></button>
+    </div>
+  </div>
+</nav>
+
+</header>
+
+<main class="main">
+	<div class="drawer">
+		<nav aria-label="Navigation">
+  <a href="https://github.com/sylcha/" class="project">
+    <div class="banner">
+      
+        <div class="logo">
+          <img src="https://sylcha.github.io/images/profil_image.jpg">
+        </div>
+      
+      <div class="name">
+        <strong>Utiliser Google Classroom <span class="version">1.0.0</span></strong>
+        
+          <br>
+          sylcha/
+        
+      </div>
+    </div>
+  </a>
+
+  <div class="scrollable">
+    <div class="wrapper">
+      
+        <ul class="repo">
+          <li class="repo-download">
+            <a href="https://github.com/sylcha//archive/master.zip" target="_blank" title="Download" data-action="download">
+              <i class="icon icon-download"></i> Télécharger
+            </a>
+          </li>
+          <li class="repo-stars">
+            <a href="https://github.com/sylcha//stargazers" target="_blank" title="Stargazers" data-action="star">
+              <i class="icon icon-star"></i> Stars
+              <span class="count">&ndash;</span>
+            </a>
+          </li>
+        </ul>
+        <hr>
+      
+
+      <div class="toc">
+        
+        <ul>
+          
+
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Début" href="https://sylcha.github.io/">
+	
+	Début
+</a>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Créer une classe virtuelle" href="https://sylcha.github.io/creation/">
+	
+	Créer une classe virtuelle
+</a>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Publier une information" href="https://sylcha.github.io/messages/">
+	
+	Publier une information
+</a>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Poser une question" href="https://sylcha.github.io/questions/">
+	
+	Poser une question
+</a>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a class="current" title="Créer, gérer un devoir" href="https://sylcha.github.io/devoirs/">
+	
+	Créer, gérer un devoir
+</a>
+
+
+<ul id="scrollspy">
+</ul>
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Licence" href="https://sylcha.github.io/licence/">
+	
+	Licence
+</a>
+
+
+  
+</li>
+
+
+        </ul>
+        
+
+        
+        <hr>
+        <span class="section">Conçu par...</span>
+
+        <ul>
+          
+
+          
+          <li>
+            <a href="https://github.com/sylcha" target="_blank" title="@sylcha on GitHub">
+              @sylcha on GitHub
+            </a>
+          </li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </div>
+</nav>
+
+	</div>
+
+	<article class="article">
+		<div class="wrapper">
+			<h1>Les Devoirs </h1>
+
+			
+
+<div class="admonition note">
+<p class="admonition-title">Use Case</p>
+<p>Je suis professeur de mathématiques. J&rsquo;ai créé un devoir pour évaluer mes élèves en statistiques.</p>
+
+<p><img src="../images/classroomdoc_devoir_sujet.png" alt="Devoir Sujet" /></p>
+
+<p>Comment envoyer ce devoir aux élèves afin qu&rsquo;ils puissent le faire dans la classe virtuelle ?</p>
+</div>
+
+<h2 id="créer-un-devoir">Créer un devoir</h2>
+
+<p>Je dois commencer par créer un devoir. Pour cela, je clique sur le bouton marqué d&rsquo;un signe <img src="../icons/plus.png" alt="plus" style="width: 20px;"/> en bas à droite et je choisis <em>Élaborer un devoir</em>.</p>
+
+<p><img src="../images/classroomdoc_devoir_creation.png" alt="Devoir Sujet" /></p>
+
+<p>Une fenêtre apparait dans laquelle je vais donner les instructions pour le devoir.</p>
+
+<h3 id="instructions-du-devoir">Instructions du devoir</h3>
+
+<p>Je commence par donner un titre à mon devoir. Ensuite je rédige les instructions. Généralement, mes instructions sont sur un document séparé. Je vais donc chercher le document sur Google Drive en cliquant sur l&rsquo;icône <img src="../icons/google-drive.png" alt="google-drive" style="width: 20px;"/>. Je retrouve mon devoir dans la fenêtre qui apparait.</p>
+
+<p><img src="../images/classroomdoc_devoir_fenetre_drive.png" alt="Devoir Fenetre Drive" /></p>
+
+<p>Je décide à présent d&rsquo;une date de remise du devoir<sup id="note1"><a href="#f1">1</a></sup> (je pourrais aussi régler l&rsquo;heure).</p>
+
+<p><img src="../images/classroomdoc_devoir_date.png" alt="Devoir Choix Date" /></p>
+
+<p>Ensuite, pour ce devoir, je souhaite que les élèves rédigent directement leurs réponses sur le sujet. Ils doivent donc avoir chacun leur propre copie du document (un peu comme des photocopies qu&rsquo;on distriburait en classe réelle). Je choisis donc <em>Faire une copie par élève</em> dans le menu déroulant de droite :</p>
+
+<p><img src="../images/classroomdoc_devoir_une_copie_par_eleve.png" alt="Devoir Copie eleve" /></p>
+
+<p>Une fois tout cela terminé, je peux publier mon devoir. Je clique sur le bouton <em>Créer un devoir</em>. Mon devoir apparait dans mon flux :</p>
+
+<p><img src="../images/classroomdoc_devoir_publiee_prof.png" alt="Devoir Publiée Prof" /></p>
+
+<h2 id="côté-élève">Côté élève</h2>
+
+<p>Aussitôt le devoir créé, les élèves reçoivent une notification par email :</p>
+
+<p><img src="../images/classroomdoc_devoir_notif_eleve.png" alt="Devoir Notification Eleve" /></p>
+
+<p>Un événement est automatiquement créé dans leur agenda :</p>
+
+<p><img src="../images/classroomdoc_devoir_notif_agenda.png" alt="Devoir Agenda" /></p>
+
+<p>Depuis ces deux endroits, mais aussi évidemment depuis le flux associé au cours, les élèves accèdent à leur devoir.</p>
+
+<p><img src="../images/classroomdoc_devoir_publiee_eleve.png" alt="Devoir Publication ELeve" /></p>
+
+<h3 id="faire-le-devoir">Faire le devoir</h3>
+
+<p>Pour pouvoir faire leur devoir, l&rsquo;élève doit cliquer sur le bouton <em>Ouvrir</em>.
+(Dans son interface, le professeur voit que l&rsquo;élève a commencé son devoir.)</p>
+
+<p><img src="../images/classroomdoc_devoir_ouvert.png" alt="Devoir Ouvert" /></p>
+
+<p>On peut voir qu&rsquo;il peut ouvrir le sujet<sup id="note2"><a href="#f2">2</a></sup> mais aussi ajouter une pièce jointe ou créer un document Google.</p>
+
+<p>Tout le temps de sa rédaction, l&rsquo;élève peut recevoir des commentaires du professeur sur son devoir (annotation à côté de certains paragraphes) :</p>
+
+<p><img src="../images/classroomdoc_devoir_commentaire_eleve.png" alt="Devoir Commentaire Eleve" /></p>
+
+<p>Une fois que son devoir sera terminé, il cliquera sur le bouton <em>Rendre le devoir</em>. Lorsque ce bouton est pressé, plus de retour en arrière possible : l&rsquo;élève ne peut plus modifier son document, seul le professeur le peut.</p>
+
+<h2 id="gérer-les-devoirs">Gérer les devoirs</h2>
+
+<p>Je clique sur le menu Devoir <img src="../images/classroomdoc_cours_menu1.png" alt="Devoir Menu" /> en haut à gauche de l&rsquo;interface et je choisis <em>Devoirs</em>.</p>
+
+<p><img src="../images/classroomdoc_devoir_menu.png" alt="Devoir Menu" /></p>
+
+<p>J&rsquo;accède ainsi à la liste de tous les devoirs dans tous les cours. Le dernier devoir créé apparait en haut de la liste :</p>
+
+<p><img src="../images/classroomdoc_devoir_liste.png" alt="Devoir Liste" /></p>
+
+<p>En cliquant sur le titre de ce devoir, j&rsquo;accède à la liste de tous les élèves. Je sais exactement qui a fait le devoir, qui est en train de le faire et qui ne l&rsquo;a pas encore regardé.</p>
+
+<p><img src="../images/classroomdoc_devoir_rendre.png" alt="Devoir Rendre" /></p>
+
+<h3 id="suivi-des-devoirs">Suivi des devoirs</h3>
+
+<p>Pendant que les élèves font leur travail, je peux accéder à leur copie, voir l&rsquo;avancement des travaux&hellip; Je clique sur le devoir d&rsquo;un élève qui s&rsquo;ouvre. Je peux lui mettre des annotations directement sur sa copie par exemple.</p>
+
+<p><img src="../images/classroomdoc_devoir_commentaire.png" alt="Devoir Ouvert" /></p>
+
+<h3 id="noter-les-devoirs">Noter les devoirs</h3>
+
+<p>Lorsque le devoir est rendu par l&rsquo;élève, il est temps de le noter ! Je peux décider de la note (par défaut sur 100 points).</p>
+
+<p><img src="../images/classroomdoc_devoir_note_changer.png" alt="Devoir Changer Note" /></p>
+
+<p>Je saisie la note dans le champs à côté du nom de l&rsquo;élève dans la liste de gauche. Lorsque la note est entrée, le nom de l&rsquo;élève est sélectionné, prêt à rendre la copie. Si je corrige et note d&rsquo;autres copies, le nom des élèves se sélectionne au fur et à mesure.</p>
+
+<p>Lorsque je clique sur le bouton <em>Rendre</em> je peux joindre un commentaire particulier (si je rends une seule copie) ou général (si je rends toutes les copies en même temps).</p>
+
+<p><img src="../images/classroomdoc_devoir_rendre_comment.png" alt="Devoir Rendre Commentaire" /></p>
+
+<p>Une fois le devoir rendu, l&rsquo;élève reçoit une notification par email avec sa note.</p>
+
+<p><img src="../images/classroomdoc_devoir_note_email.png" alt="Devoir Note Email" /></p>
+
+<p>L&rsquo;élève peut à nouveau modifier son devoir pour le corriger par exemple&hellip;</p>
+
+<h2 id="récupérer-les-notes">Récupérer les notes</h2>
+
+<p>En haut à droite de la liste des devoirs, si je clique sur l&rsquo;engrenage <img src="../icons/cog.png" alt="cog" /> et je choisis le type de fichier sous lequel je veux récupérer ma liste de notes (Google Sheet ou CSV)</p>
+
+<p><img src="../images/classroomdoc_question_notes_tableau.png" alt="Question Note Tableau" /></p>
+
+<hr />
+
+<p><strong>NOTES</strong></p>
+
+<p><b id="f1">1.</b> Décider de la date de remise n&rsquo;implique pas que les élèves ne pourront pas le remettre hors délais. Leur devoir aura juste la mention <em>En retard</em>. <a href="#note1">↩</a></p>
+
+<p><b id="f2">2.</b> Remarquez le nom bizzare du sujet : <em>Copie de [Template] Copie de &hellip;</em>. C&rsquo;est une bizarrerie du système. C&rsquo;est moche et ce sera sans doute changé dans les prochaines versions de Google Classroom. <a href="#note2">↩</a></p>
+
+
+			<aside class="copyright" role="note">
+				
+				&copy; 2016 Released under the CC-BY-NC-SA-4.0 license &ndash;
+				
+				Documentation réalisée avec
+				<a href="https://www.gohugo.io" target="_blank">Hugo</a> | Thème :
+				<a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>.
+			</aside>
+
+			<footer class="footer">
+				
+
+<nav class="pagination" aria-label="Footer">
+  <div class="previous">
+  
+      <a href="https://sylcha.github.io/messages/" title="Les Annonces">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              Les Annonces
+            </div>
+          </div>
+        </div>
+      </a>
+  
+  </div>
+
+  <div class="next">
+  
+      <a href="https://sylcha.github.io/licence/" title="Licence">
+        <span class="direction">
+          Next
+        </span>
+        <div class="page">
+          <div class="stretch">
+            <div class="title">
+              Licence
+            </div>
+          </div>
+          <div class="button button-next" role="button" aria-label="Next">
+            <i class="icon icon-forward"></i>
+          </div>
+        </div>
+      </a>
+  
+  </div>
+</nav>
+
+
+
+
+
+			</footer>
+		</div>
+	</article>
+
+	<div class="results" role="status" aria-live="polite">
+		<div class="scrollable">
+			<div class="wrapper">
+				<div class="meta"></div>
+				<div class="list"></div>
+			</div>
+		</div>
+	</div>
+</main>
+
+    <script>
+    
+      var base_url = 'https:\/\/sylcha.github.io\/';
+      var repo_id  = 'sylcha\/';
+    
+    </script>
+
+    <script src="https://sylcha.github.io/javascripts/application.js"></script>
+    
+
+    <script>
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName("h2");
+      var scrollspy = document.getElementById('scrollspy');
+
+      if(scrollspy) {
+        if(headers.length > 0) {
+          for(var i = 0; i < headers.length; i++) {
+            var li = document.createElement("li");
+            li.setAttribute("class", "anchor");
+
+            var a  = document.createElement("a");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+            
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+        
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+
+        for(var i = 0; i < headers.length; i++) {
+            var a = document.createElement("a");
+            a.setAttribute("class", "headerlink");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", "Permanent link")
+            a.innerHTML = "#";
+            headers[i].appendChild(a);
+        }
+      }
+    </script>
+
+    
+
+    <script src="//gohugo.io/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>

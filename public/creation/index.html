@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+  
+  
+  
+  
+   <html class="no-js"> 
+
+  <head lang="fr-fr">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
+    <title>Créer une classe virtuelle - Utiliser Google Classroom</title>
+    <meta name="generator" content="Hugo 0.16" />
+
+    
+    <meta name="description" content="Une documentation sur Google Classroom pour démarrer rapidement sa classe virtuelle.">
+    
+    <link rel="canonical" href="https://sylcha.github.io/creation/">
+    
+    <meta name="author" content="Sylvain">
+    
+
+    <meta property="og:url" content="https://sylcha.github.io/creation/">
+    <meta property="og:title" content="Utiliser Google Classroom">
+    <meta property="og:image" content="https://sylcha.github.io/images/profil_image.jpg">
+    <meta name="apple-mobile-web-app-title" content="Utiliser Google Classroom">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://sylcha.github.io/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="https://sylcha.github.io/images/favicon.ico">
+
+    <style>
+      @font-face {
+        font-family: 'Icon';
+        src: url('https://sylcha.github.io/fonts/icon.eot?52m981');
+        src: url('https://sylcha.github.io/fonts/icon.eot?#iefix52m981')
+               format('embedded-opentype'),
+             url('https://sylcha.github.io/fonts/icon.woff?52m981')
+               format('woff'),
+             url('https://sylcha.github.io/fonts/icon.ttf?52m981')
+               format('truetype'),
+             url('https://sylcha.github.io/fonts/icon.svg?52m981#icon')
+               format('svg');
+        font-weight: normal;
+        font-style: normal;
+      }
+    </style>
+
+    <link rel="stylesheet" href="https://sylcha.github.io/stylesheets/application.css">
+    <link rel="stylesheet" href="https://sylcha.github.io/stylesheets/temporary.css">
+    <link rel="stylesheet" href="https://sylcha.github.io/stylesheets/palettes.css">
+    <link rel="stylesheet" href="https://sylcha.github.io/stylesheets/highlight/highlight.css">
+
+    
+    
+    
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Dosis:400,700|Dosis%2bMono">
+    <style>
+      body, input {
+        font-family: 'Dosis', Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: 'Dosis Mono', 'Courier New', 'Courier', monospace;
+      }
+    </style>
+
+    
+    <script src="https://sylcha.github.io/javascripts/modernizr.js"></script>
+
+    
+
+  </head>
+  <body class="palette-primary-red palette-accent-light green">
+
+
+
+	
+	
+
+
+<div class="backdrop">
+	<div class="backdrop-paper"></div>
+</div>
+
+<input class="toggle" type="checkbox" id="toggle-drawer">
+<input class="toggle" type="checkbox" id="toggle-search">
+<label class="toggle-button overlay" for="toggle-drawer"></label>
+
+<header class="header">
+	<nav aria-label="Header">
+  <div class="bar default">
+    <div class="button button-menu" role="button" aria-label="Menu">
+      <label class="toggle-button icon icon-menu" for="toggle-drawer">
+        <span></span>
+      </label>
+    </div>
+    <div class="stretch">
+      <div class="title">
+        Créer une classe virtuelle
+      </div>
+    </div>
+
+    
+
+    
+    <div class="button button-github" role="button" aria-label="GitHub">
+      <a href="https://github.com/sylcha" title="@sylcha on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
+    </div>
+    
+
+    
+  </div>
+  <div class="bar search">
+    <div class="button button-close" role="button" aria-label="Close">
+      <label class="toggle-button icon icon-back" for="toggle-search"></label>
+    </div>
+    <div class="stretch">
+      <div class="field">
+        <input class="query" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck>
+      </div>
+    </div>
+    <div class="button button-reset" role="button" aria-label="Search">
+      <button class="toggle-button icon icon-close" id="reset-search"></button>
+    </div>
+  </div>
+</nav>
+
+</header>
+
+<main class="main">
+	<div class="drawer">
+		<nav aria-label="Navigation">
+  <a href="https://github.com/sylcha/" class="project">
+    <div class="banner">
+      
+        <div class="logo">
+          <img src="https://sylcha.github.io/images/profil_image.jpg">
+        </div>
+      
+      <div class="name">
+        <strong>Utiliser Google Classroom <span class="version">1.0.0</span></strong>
+        
+          <br>
+          sylcha/
+        
+      </div>
+    </div>
+  </a>
+
+  <div class="scrollable">
+    <div class="wrapper">
+      
+        <ul class="repo">
+          <li class="repo-download">
+            <a href="https://github.com/sylcha//archive/master.zip" target="_blank" title="Download" data-action="download">
+              <i class="icon icon-download"></i> Télécharger
+            </a>
+          </li>
+          <li class="repo-stars">
+            <a href="https://github.com/sylcha//stargazers" target="_blank" title="Stargazers" data-action="star">
+              <i class="icon icon-star"></i> Stars
+              <span class="count">&ndash;</span>
+            </a>
+          </li>
+        </ul>
+        <hr>
+      
+
+      <div class="toc">
+        
+        <ul>
+          
+
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Début" href="https://sylcha.github.io/">
+	
+	Début
+</a>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a class="current" title="Créer une classe virtuelle" href="https://sylcha.github.io/creation/">
+	
+	Créer une classe virtuelle
+</a>
+
+
+<ul id="scrollspy">
+</ul>
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Publier une information" href="https://sylcha.github.io/messages/">
+	
+	Publier une information
+</a>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Poser une question" href="https://sylcha.github.io/questions/">
+	
+	Poser une question
+</a>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Créer, gérer un devoir" href="https://sylcha.github.io/devoirs/">
+	
+	Créer, gérer un devoir
+</a>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Licence" href="https://sylcha.github.io/licence/">
+	
+	Licence
+</a>
+
+
+  
+</li>
+
+
+        </ul>
+        
+
+        
+        <hr>
+        <span class="section">Conçu par...</span>
+
+        <ul>
+          
+
+          
+          <li>
+            <a href="https://github.com/sylcha" target="_blank" title="@sylcha on GitHub">
+              @sylcha on GitHub
+            </a>
+          </li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </div>
+</nav>
+
+	</div>
+
+	<article class="article">
+		<div class="wrapper">
+			<h1>Créer une classe virtuelle </h1>
+
+			
+
+<p>Pour créer un classe virtuelle, je clique sur le signe <img src="../icons/plus.png" alt="plus" style="width: 20px;"/> en haut à droite à côté de mon adresse email.</p>
+
+<p><img src="../images/classroomdoc_plus.png" alt="Signe Plus" /></p>
+
+<p>Je choisis alors l&rsquo;option <em>Créer un cours</em> dans le menu déroulant.</p>
+
+<p><img src="../images/classroomdoc_cours_creation.png" alt="Cours Création" /></p>
+
+<h2 id="décider-d-un-nom">Décider d&rsquo;un nom</h2>
+
+<p>Une fois que j&rsquo;ai cliqué sur <em>Créer un cours</em>, je dois nommer ce cours :</p>
+
+<p><img src="../images/classroomdoc_cours_nommer.png" alt="Cours Nommer" /></p>
+
+<p>Le choix du nom est important car il va décider du label du dossier dans Google Drive (voir <a href="#nom_dossier">plus loin</a>). Il est crucial que tous les enseignants utilisent la même norme pour nommer ces cours afin que les élèves ne soient pas perdus.</p>
+
+<h3 id="norme-générale">Norme générale</h3>
+
+<p>J&rsquo;utilise la norme suivante :</p>
+
+<pre><code>Nom du cours : &lt;matiere&gt;-&lt;sous_matiere&gt;
+Section : &lt;niveau&gt;&lt;section&gt;
+</code></pre>
+
+<div class="admonition note">
+<p class="admonition-title">Use Case</p>
+<p>Je suis professeur de mathématiques. Je souhaite créer un espace de travail spécifique pour mon groupe d&rsquo;AP de 6e B. Ainsi, mon cours s&rsquo;intitulera :</p>
+
+<pre><code>Nom du cours : Maths-AP
+Section : 6B
+</code></pre>
+</p>
+</div>
+
+<p>j&rsquo;arrive alors sur le mur de la classe : c&rsquo;est ici que tout se passe, dans une seule page.</p>
+
+<p><img src="../images/classroomdoc_cours_premiere.png" alt="Cours Mur" /></p>
+
+<h2 id="symbiose-avec-le-drive">Symbiose avec le Drive</h2>
+
+<p>Le plus gros avantage à utiliser Google Classroom réside dans son intégration parfaite avec le système Google.</p>
+
+<h3 id="création-d-un-dossier-sur-le-drive-a-name-nom-dossier-a">Création d&rsquo;un dossier sur le Drive<a name="nom_dossier"></a></h3>
+
+<p>À peine le cours créé, j&rsquo;ai un dossier <code>Classroom</code> dans le Drive associé à mon adresse du LFV. Dans ce dossier, il y a un sous-dossier au nom du cours créé.</p>
+
+<p><img src="../images/classroomdoc_cours_drive.png" alt="Cours Drive" /></p>
+
+<p>Tous les documents que je partage avec les élèves iront dans ce dossiers et ne seront visibles que par eux. En effet, lorsque un élève rejoint le cours, il se passe la même chose pour lui : un dossier <code>Classroom</code> est créé avec un sous-dossier au nom du cours.</p>
+
+<h3 id="création-d-un-agenda">Création d&rsquo;un agenda</h3>
+
+<p>Avec le dossier dans le Drive, google crée aussi un agenda spécifique pour le cours. À chaque fois que je donnerai un devoir aux élèves, un événement sera créé dans cet agenda.</p>
+
+<p><img src="../images/classroomdoc_cours_agenda.png" alt="Cours Agenda" /></p>
+
+<h2 id="description-de-l-interface">Description de l&rsquo;interface</h2>
+
+<h3 id="les-onglets">Les onglets</h3>
+
+<p>Trois onglets avec trois buts différents :</p>
+
+<p><img src="../images/classroomdoc_cours_onglets.png" alt="Cours Onglets" /></p>
+
+<ol>
+<li><p>Le <strong>Flux</strong> : toutes les informations publiées sur le site sont ici, empilées de la plus ancienne à la plus récente (la dernière publication étant la première dans la liste)</p></li>
+
+<li><p>Les <strong>Élèves</strong> : la liste de tous les élèves inscrits dans ce cours.</p></li>
+
+<li><p><strong>À propos</strong> : des réglages et des informations additionnelles peuvent être ajoutées ici.</p></li>
+</ol>
+
+<h3 id="réglages-de-l-apparence">Réglages de l&rsquo;apparence</h3>
+
+<p>Sur la droite de la fenêtre, juste en dessous de l&rsquo;adresse email, j&rsquo;ai accès aux réglages du thème du cours : c&rsquo;est là que je peux décider de la couleur, de la photo, etc. et personnaliser un peu mon cours. C&rsquo;est important car sinon les élèves auront du mal à faire la différence avec les cours des autres professeurs.</p>
+
+<p><img src="../images/classroomdoc_cours_theme.png" alt="Cours Themes" /></p>
+
+<h3 id="menu-général">Menu général</h3>
+
+<p>En haut à gauche de l&rsquo;interface, j&rsquo;ai un bouton <img src="../images/classroomdoc_cours_menu1.png" alt="Cours Menu1" /> qui permet de déployer un menu.</p>
+
+<!---
+![Cours Menu1](../images/classroomdoc_cours_menu2.png)
+-->
+
+<p>Ce menu permet de naviguer facilement entre tous les cours, devoirs et aussi d&rsquo;accéder aux paramètres.</p>
+
+<h3 id="ajouter-du-contenu">Ajouter du contenu</h3>
+
+<p>Enfin, sur la partie inférieure droite, on aperçoit un gros bouton marqué d&rsquo;un <img src="../icons/plus.png" alt="plus" style="width: 20px;"/>. En cliquant sur ce bouton, j&rsquo;accède au menu des contenus.</p>
+
+<p><img src="../images/classroomdoc_cours_ajouter_contenu.png" alt="Cours Menu Contenu" /></p>
+
+<h2 id="comment-rejoindre-une-classe">Comment rejoindre une classe ?</h2>
+
+<h3 id="les-élèves-s-inscrivent-tous-seuls">Les élèves s&rsquo;inscrivent tous seuls</h3>
+
+<p>C&rsquo;est la solution la plus confortable pour l&rsquo;enseignant. Je donne le code de mon cours aux élèves que je souhaite inscrire. Je trouve ce code sur la droite de la partie <em>Flux</em></p>
+
+<p><img src="../images/classroomdoc_cours_code.png" alt="Cours Code" /></p>
+
+<p>De leur côté, les élèves cliquent sur le img src=&ldquo;../icons/plus.png&rdquo; alt=&ldquo;plus&rdquo; style=&ldquo;width: 20px;&ldquo;/&gt; à côté de leur adresse email (en haut à droite) et choisissent l&rsquo;option <em>Se connecter à un cours</em>. Ils doivent saisir le code dans cette fenêtre</p>
+
+<p><img src="../images/classroomdoc_cours_rejoindre.png" alt="Cours Code" /></p>
+
+<h3 id="inviter-des-élèves">Inviter des élèves</h3>
+
+<p>Ici, c&rsquo;est l&rsquo;enseignant qui invite les élèves à participer au cours. Pas besoin de code. Je clique sur l&rsquo;onglet <em>Élèves</em>. J&rsquo;accède alors à cette partie du cours :</p>
+
+<p><img src="../images/classroomdoc_cours_inviter1.png" alt="Cours Inviter1" /></p>
+
+<p>En cliquant sur le bouton <em>Inviter</em>, une fenêtre s&rsquo;ouvre où je peux choisir les adresses des élèves.</p>
+
+<p><img src="../images/classroomdoc_cours_inviter2.png" alt="Cours Inviter2" /></p>
+
+<p>Seuls les élèves ayant une adresse <code>*@lfv.pl</code> pourront être inviter à rejoindre la classe.</p>
+
+<ol>
+<li>Je tape le nom de l&rsquo;élève dans le champ de recherche.</li>
+<li>Je coche la case correspondant à l&rsquo;adresse.</li>
+<li>Je recommence avec un autre nom.</li>
+<li>Une fois fini, je clique sur le bouton <em>Inviter les élèves</em>.</li>
+</ol>
+
+<p>Les élèves reçoivent alors un email d&rsquo;invitation. Ils devront valider leur inscription au cours en cliquant sur le lien dans cet email.</p>
+
+<div class="admonition note">
+<p class="admonition-title">Adresses des élèves</p>
+<p>Je ne peux pas faire de saisie d&rsquo;adresse mais seulement choisir une adresse parmie une liste. C&rsquo;est <strong>très</strong> contraignant (il faut chercher les adresses une à une) mais cela permet à Google de s&rsquo;assurer que les utilisateurs invités restent dans le giron des adresses du LFV.</p>
+
+<p>Personnellement, j&rsquo;utilise la formule précédente où chaque élève s&rsquo;inscrit.</p>
+</div>
+
+<h2 id="comment-collaborer-à-un-cours">Comment collaborer à un cours ?</h2>
+
+<p>Il peut y avoir plusieurs enseignants qui participent ensemble à l&rsquo;élaboration d&rsquo;un cours (TPE, enseignement d&rsquo;exploration en seconde, etc.). Le service Google Classroom permet de gérer cela. Moi qui ai créé le cours, je clique sur l&rsquo;onglet <em>À propos</em>. J&rsquo;accède alors à un bouton <em>Inviter un enseignant</em>.</p>
+
+<p><img src="../images/classroomdoc_cours_inviter_prof.png" alt="Cours Inviter Prof" /></p>
+
+<p>L&rsquo;enseignant invité aura bien évidemment le droit de publier dans mon cours.</p>
+
+
+			<aside class="copyright" role="note">
+				
+				&copy; 2016 Released under the CC-BY-NC-SA-4.0 license &ndash;
+				
+				Documentation réalisée avec
+				<a href="https://www.gohugo.io" target="_blank">Hugo</a> | Thème :
+				<a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>.
+			</aside>
+
+			<footer class="footer">
+				
+
+<nav class="pagination" aria-label="Footer">
+  <div class="previous">
+  
+      <a href="https://sylcha.github.io/" title="Google Classroom, une documentation">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              Google Classroom, une documentation
+            </div>
+          </div>
+        </div>
+      </a>
+  
+  </div>
+
+  <div class="next">
+  
+      <a href="https://sylcha.github.io/messages/" title="Les Annonces">
+        <span class="direction">
+          Next
+        </span>
+        <div class="page">
+          <div class="stretch">
+            <div class="title">
+              Les Annonces
+            </div>
+          </div>
+          <div class="button button-next" role="button" aria-label="Next">
+            <i class="icon icon-forward"></i>
+          </div>
+        </div>
+      </a>
+  
+  </div>
+</nav>
+
+
+
+
+
+			</footer>
+		</div>
+	</article>
+
+	<div class="results" role="status" aria-live="polite">
+		<div class="scrollable">
+			<div class="wrapper">
+				<div class="meta"></div>
+				<div class="list"></div>
+			</div>
+		</div>
+	</div>
+</main>
+
+    <script>
+    
+      var base_url = 'https:\/\/sylcha.github.io\/';
+      var repo_id  = 'sylcha\/';
+    
+    </script>
+
+    <script src="https://sylcha.github.io/javascripts/application.js"></script>
+    
+
+    <script>
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName("h2");
+      var scrollspy = document.getElementById('scrollspy');
+
+      if(scrollspy) {
+        if(headers.length > 0) {
+          for(var i = 0; i < headers.length; i++) {
+            var li = document.createElement("li");
+            li.setAttribute("class", "anchor");
+
+            var a  = document.createElement("a");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+            
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+        
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+
+        for(var i = 0; i < headers.length; i++) {
+            var a = document.createElement("a");
+            a.setAttribute("class", "headerlink");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", "Permanent link")
+            a.innerHTML = "#";
+            headers[i].appendChild(a);
+        }
+      }
+    </script>
+
+    
+
+    <script src="//gohugo.io/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>

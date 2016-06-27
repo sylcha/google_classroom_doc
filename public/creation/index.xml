@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creations on Utiliser Google Classroom</title>
+    <link>https://sylcha.github.io/creation/</link>
+    <description>Recent content in Creations on Utiliser Google Classroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 25 Jun 2016 12:20:23 +0200</lastBuildDate>
+    <atom:link href="https://sylcha.github.io/creation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Créer une classe virtuelle</title>
+      <link>https://sylcha.github.io/creation/</link>
+      <pubDate>Sat, 25 Jun 2016 12:20:23 +0200</pubDate>
+      
+      <guid>https://sylcha.github.io/creation/</guid>
+      <description>
+
+&lt;p&gt;Pour créer un classe virtuelle, je clique sur le signe &lt;img src=&#34;../icons/plus.png&#34; alt=&#34;plus&#34; style=&#34;width: 20px;&#34;/&gt; en haut à droite à côté de mon adresse email.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_plus.png&#34; alt=&#34;Signe Plus&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je choisis alors l&amp;rsquo;option &lt;em&gt;Créer un cours&lt;/em&gt; dans le menu déroulant.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_creation.png&#34; alt=&#34;Cours Création&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;décider-d-un-nom&#34;&gt;Décider d&amp;rsquo;un nom&lt;/h2&gt;
+
+&lt;p&gt;Une fois que j&amp;rsquo;ai cliqué sur &lt;em&gt;Créer un cours&lt;/em&gt;, je dois nommer ce cours :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_nommer.png&#34; alt=&#34;Cours Nommer&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le choix du nom est important car il va décider du label du dossier dans Google Drive (voir &lt;a href=&#34;#nom_dossier&#34;&gt;plus loin&lt;/a&gt;). Il est crucial que tous les enseignants utilisent la même norme pour nommer ces cours afin que les élèves ne soient pas perdus.&lt;/p&gt;
+
+&lt;h3 id=&#34;norme-générale&#34;&gt;Norme générale&lt;/h3&gt;
+
+&lt;p&gt;J&amp;rsquo;utilise la norme suivante :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Nom du cours : &amp;lt;matiere&amp;gt;-&amp;lt;sous_matiere&amp;gt;
+Section : &amp;lt;niveau&amp;gt;&amp;lt;section&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Use Case&lt;/p&gt;
+&lt;p&gt;Je suis professeur de mathématiques. Je souhaite créer un espace de travail spécifique pour mon groupe d&amp;rsquo;AP de 6e B. Ainsi, mon cours s&amp;rsquo;intitulera :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Nom du cours : Maths-AP
+Section : 6B
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;j&amp;rsquo;arrive alors sur le mur de la classe : c&amp;rsquo;est ici que tout se passe, dans une seule page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_premiere.png&#34; alt=&#34;Cours Mur&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;symbiose-avec-le-drive&#34;&gt;Symbiose avec le Drive&lt;/h2&gt;
+
+&lt;p&gt;Le plus gros avantage à utiliser Google Classroom réside dans son intégration parfaite avec le système Google.&lt;/p&gt;
+
+&lt;h3 id=&#34;création-d-un-dossier-sur-le-drive-a-name-nom-dossier-a&#34;&gt;Création d&amp;rsquo;un dossier sur le Drive&lt;a name=&#34;nom_dossier&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;À peine le cours créé, j&amp;rsquo;ai un dossier &lt;code&gt;Classroom&lt;/code&gt; dans le Drive associé à mon adresse du LFV. Dans ce dossier, il y a un sous-dossier au nom du cours créé.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_drive.png&#34; alt=&#34;Cours Drive&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tous les documents que je partage avec les élèves iront dans ce dossiers et ne seront visibles que par eux. En effet, lorsque un élève rejoint le cours, il se passe la même chose pour lui : un dossier &lt;code&gt;Classroom&lt;/code&gt; est créé avec un sous-dossier au nom du cours.&lt;/p&gt;
+
+&lt;h3 id=&#34;création-d-un-agenda&#34;&gt;Création d&amp;rsquo;un agenda&lt;/h3&gt;
+
+&lt;p&gt;Avec le dossier dans le Drive, google crée aussi un agenda spécifique pour le cours. À chaque fois que je donnerai un devoir aux élèves, un événement sera créé dans cet agenda.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_agenda.png&#34; alt=&#34;Cours Agenda&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;description-de-l-interface&#34;&gt;Description de l&amp;rsquo;interface&lt;/h2&gt;
+
+&lt;h3 id=&#34;les-onglets&#34;&gt;Les onglets&lt;/h3&gt;
+
+&lt;p&gt;Trois onglets avec trois buts différents :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_onglets.png&#34; alt=&#34;Cours Onglets&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Le &lt;strong&gt;Flux&lt;/strong&gt; : toutes les informations publiées sur le site sont ici, empilées de la plus ancienne à la plus récente (la dernière publication étant la première dans la liste)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Les &lt;strong&gt;Élèves&lt;/strong&gt; : la liste de tous les élèves inscrits dans ce cours.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;À propos&lt;/strong&gt; : des réglages et des informations additionnelles peuvent être ajoutées ici.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;réglages-de-l-apparence&#34;&gt;Réglages de l&amp;rsquo;apparence&lt;/h3&gt;
+
+&lt;p&gt;Sur la droite de la fenêtre, juste en dessous de l&amp;rsquo;adresse email, j&amp;rsquo;ai accès aux réglages du thème du cours : c&amp;rsquo;est là que je peux décider de la couleur, de la photo, etc. et personnaliser un peu mon cours. C&amp;rsquo;est important car sinon les élèves auront du mal à faire la différence avec les cours des autres professeurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_theme.png&#34; alt=&#34;Cours Themes&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;menu-général&#34;&gt;Menu général&lt;/h3&gt;
+
+&lt;p&gt;En haut à gauche de l&amp;rsquo;interface, j&amp;rsquo;ai un bouton &lt;img src=&#34;../images/classroomdoc_cours_menu1.png&#34; alt=&#34;Cours Menu1&#34; /&gt; qui permet de déployer un menu.&lt;/p&gt;
+
+&lt;!---
+![Cours Menu1](../images/classroomdoc_cours_menu2.png)
+--&gt;
+
+&lt;p&gt;Ce menu permet de naviguer facilement entre tous les cours, devoirs et aussi d&amp;rsquo;accéder aux paramètres.&lt;/p&gt;
+
+&lt;h3 id=&#34;ajouter-du-contenu&#34;&gt;Ajouter du contenu&lt;/h3&gt;
+
+&lt;p&gt;Enfin, sur la partie inférieure droite, on aperçoit un gros bouton marqué d&amp;rsquo;un &lt;img src=&#34;../icons/plus.png&#34; alt=&#34;plus&#34; style=&#34;width: 20px;&#34;/&gt;. En cliquant sur ce bouton, j&amp;rsquo;accède au menu des contenus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_ajouter_contenu.png&#34; alt=&#34;Cours Menu Contenu&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;comment-rejoindre-une-classe&#34;&gt;Comment rejoindre une classe ?&lt;/h2&gt;
+
+&lt;h3 id=&#34;les-élèves-s-inscrivent-tous-seuls&#34;&gt;Les élèves s&amp;rsquo;inscrivent tous seuls&lt;/h3&gt;
+
+&lt;p&gt;C&amp;rsquo;est la solution la plus confortable pour l&amp;rsquo;enseignant. Je donne le code de mon cours aux élèves que je souhaite inscrire. Je trouve ce code sur la droite de la partie &lt;em&gt;Flux&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_code.png&#34; alt=&#34;Cours Code&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;De leur côté, les élèves cliquent sur le img src=&amp;ldquo;../icons/plus.png&amp;rdquo; alt=&amp;ldquo;plus&amp;rdquo; style=&amp;ldquo;width: 20px;&amp;ldquo;/&amp;gt; à côté de leur adresse email (en haut à droite) et choisissent l&amp;rsquo;option &lt;em&gt;Se connecter à un cours&lt;/em&gt;. Ils doivent saisir le code dans cette fenêtre&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_rejoindre.png&#34; alt=&#34;Cours Code&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;inviter-des-élèves&#34;&gt;Inviter des élèves&lt;/h3&gt;
+
+&lt;p&gt;Ici, c&amp;rsquo;est l&amp;rsquo;enseignant qui invite les élèves à participer au cours. Pas besoin de code. Je clique sur l&amp;rsquo;onglet &lt;em&gt;Élèves&lt;/em&gt;. J&amp;rsquo;accède alors à cette partie du cours :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_inviter1.png&#34; alt=&#34;Cours Inviter1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En cliquant sur le bouton &lt;em&gt;Inviter&lt;/em&gt;, une fenêtre s&amp;rsquo;ouvre où je peux choisir les adresses des élèves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_inviter2.png&#34; alt=&#34;Cours Inviter2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Seuls les élèves ayant une adresse &lt;code&gt;*@lfv.pl&lt;/code&gt; pourront être inviter à rejoindre la classe.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Je tape le nom de l&amp;rsquo;élève dans le champ de recherche.&lt;/li&gt;
+&lt;li&gt;Je coche la case correspondant à l&amp;rsquo;adresse.&lt;/li&gt;
+&lt;li&gt;Je recommence avec un autre nom.&lt;/li&gt;
+&lt;li&gt;Une fois fini, je clique sur le bouton &lt;em&gt;Inviter les élèves&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Les élèves reçoivent alors un email d&amp;rsquo;invitation. Ils devront valider leur inscription au cours en cliquant sur le lien dans cet email.&lt;/p&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Adresses des élèves&lt;/p&gt;
+&lt;p&gt;Je ne peux pas faire de saisie d&amp;rsquo;adresse mais seulement choisir une adresse parmie une liste. C&amp;rsquo;est &lt;strong&gt;très&lt;/strong&gt; contraignant (il faut chercher les adresses une à une) mais cela permet à Google de s&amp;rsquo;assurer que les utilisateurs invités restent dans le giron des adresses du LFV.&lt;/p&gt;
+
+&lt;p&gt;Personnellement, j&amp;rsquo;utilise la formule précédente où chaque élève s&amp;rsquo;inscrit.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;comment-collaborer-à-un-cours&#34;&gt;Comment collaborer à un cours ?&lt;/h2&gt;
+
+&lt;p&gt;Il peut y avoir plusieurs enseignants qui participent ensemble à l&amp;rsquo;élaboration d&amp;rsquo;un cours (TPE, enseignement d&amp;rsquo;exploration en seconde, etc.). Le service Google Classroom permet de gérer cela. Moi qui ai créé le cours, je clique sur l&amp;rsquo;onglet &lt;em&gt;À propos&lt;/em&gt;. J&amp;rsquo;accède alors à un bouton &lt;em&gt;Inviter un enseignant&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_inviter_prof.png&#34; alt=&#34;Cours Inviter Prof&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;enseignant invité aura bien évidemment le droit de publier dans mon cours.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

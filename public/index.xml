@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utiliser Google Classroom</title>
+    <link>https://sylcha.github.io/</link>
+    <description>Recent content on Utiliser Google Classroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 25 Jun 2016 19:26:10 +0200</lastBuildDate>
+    <atom:link href="https://sylcha.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Les Questions</title>
+      <link>https://sylcha.github.io/questions/</link>
+      <pubDate>Sat, 25 Jun 2016 19:26:10 +0200</pubDate>
+      
+      <guid>https://sylcha.github.io/questions/</guid>
+      <description>
+
+&lt;p&gt;Je peux poser une question &lt;strong&gt;unique&lt;/strong&gt; aux élèves. Il s&amp;rsquo;agit ici d&amp;rsquo;évaluer que quelque chose de ponctuel a été bien fait. Ils viennent par exemple de lire un texte en classe ou une page web et je souhaite contrôler que cette tâche a été faite correctement. Il peut s&amp;rsquo;agir une question avec choix multiples ou avec réponse courte.&lt;/p&gt;
+
+&lt;h2 id=&#34;poser-une-question-aux-élèves&#34;&gt;Poser une question aux élèves&lt;/h2&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Use Case&lt;/p&gt;
+&lt;p&gt;Je souhaite contrôler que les élèves ont bien regardé la vidéo sur les statistiques et la calculatrice. Je vais leur poser une question &lt;em&gt;précise&lt;/em&gt; sur une touche.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Je clique sur le bouton marqué d&amp;rsquo;un signe &lt;img src=&#34;../icons/plus.png&#34; alt=&#34;plus&#34; style=&#34;width: 20px;&#34;/&gt; en bas à droite et je choisis &lt;em&gt;Créer une question&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_creer.png&#34; alt=&#34;Question Creer&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;S&amp;rsquo;ouvre alors une fenêtre de dialogue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_redaction.png&#34; alt=&#34;Question Redaction&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je rédige le titre et l&amp;rsquo;intitulé de la question, je choisis une date/heure à laquelle il faut que les élèves remettent la réponse. Pour cette fois, je pose une question à choix multiples mais j&amp;rsquo;aurais pu aussi poser une question avec une réponse courte. Je peux aussi joindre un lien, une vidéo, un fichier,&amp;hellip; Une fois ma question rédigée, je clique sur le bouton &lt;em&gt;Poser une question&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ma question est alors publiée et apparait dans mon flux et dans celui de chaque élève.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_publiee.png&#34; alt=&#34;Question Publication&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Comme pour les annonces, les élèves peuvent poster un commentaire. Côté enseignant, on peut aussi voir qu&amp;rsquo;il y a deux compteurs qui vont se mettre à jour au fur et à mesure que les élèves vont répondre à la question.&lt;/p&gt;
+
+&lt;h2 id=&#34;côté-élèves&#34;&gt;Côté élèves&lt;/h2&gt;
+
+&lt;p&gt;L&amp;rsquo;élève de son côté reçoit une notification par email dès que la question est publiée.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_notif_eleve.png&#34; alt=&#34;Question Notification&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En lisant son email, il aura accès à un bouton &lt;em&gt;Ouvrir&lt;/em&gt; pour accéder à la question. Bien entendu, s&amp;rsquo;il consulte le flux associé au cours, il verra la question nouvellement publiée.&lt;/p&gt;
+
+&lt;p&gt;La question ouverte, il lui suffit d&amp;rsquo;y répondre en cochant la bonne réponse. S&amp;rsquo;il s&amp;rsquo;agissait d&amp;rsquo;une réponse courte, il aurait fallu rédiger une ou deux phrases.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_repondre.png&#34; alt=&#34;Question Réponse&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;élève clique sur le bouton &lt;em&gt;Envoyer&lt;/em&gt;. À partir du moment où la question a été envoyée, il ne peut plus modifier sa réponse&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;correction-des-réponses&#34;&gt;Correction des réponses&lt;/h2&gt;
+
+&lt;h3 id=&#34;accéder-aux-réponse-des-élèves&#34;&gt;Accéder aux réponse des élèves&lt;/h3&gt;
+
+&lt;p&gt;Je clique sur le bouton &lt;img src=&#34;../images/classroomdoc_cours_menu1.png&#34; alt=&#34;Question Menu&#34; /&gt; en haut à gauche de l&amp;rsquo;interface et je choisis &lt;em&gt;Devoirs&lt;/em&gt; pour accéder à la liste de tous les devoirs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_liste.png&#34; alt=&#34;Question Liste&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dans la liste de mes devoirs, je clique sur la question que je souhaite corriger. Apparait alors la liste de tous les élèves qui participent au test. Je clique sur l&amp;rsquo;un d&amp;rsquo;entre eux et je peux alors voir sa réponse.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_correction1.png&#34; alt=&#34;Question Correction&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;noter-les-réponses&#34;&gt;Noter les réponses&lt;/h3&gt;
+
+&lt;p&gt;Dans la liste à côté de son nom, je peux lui mettre une note. Par défaut la note est sur 100 mais je peux la changer en saisissant le nombre que je veux dans la partie prévue à cet effet à droite du bouton &lt;em&gt;Rendre&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_rendre.png&#34; alt=&#34;Question remettre&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorsque la note est saisie, j&amp;rsquo;appuie sur la touche &lt;em&gt;Entrée&lt;/em&gt;  et je passe à l&amp;rsquo;élève suivant. Une fois tout corrigé, je peux cliquer sur le bouton &lt;em&gt;Rendre&lt;/em&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Si tous les élèves sont sélectionnés, alors tous vont recevoir leur note.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mais je peux aussi choisir de ne sélectionner qu&amp;rsquo;un seul élève dans la liste pour lui mettre un commentaire spécial pour sa réponse.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_rendre_comment.png&#34; alt=&#34;Question Commentaire&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je clique à nouveau sur le bouton &lt;em&gt;Rendre&lt;/em&gt;. À ce moment, l&amp;rsquo;élève reçoit un email avec sa note :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_note.png&#34; alt=&#34;Question Note&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;récupérer-les-notes&#34;&gt;Récupérer les notes&lt;/h2&gt;
+
+&lt;p&gt;En haut à droite de la liste des réponses, si je clique sur l&amp;rsquo;engrenage &lt;img src=&#34;../icons/cog.png&#34; alt=&#34;cog&#34; /&gt; et je choisis le type de fichier sous lequel je veux récupérer ma liste de notes (Google Sheet ou CSV)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_notes_tableau.png&#34; alt=&#34;Question Note Tableau&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Classroom, une documentation</title>
+      <link>https://sylcha.github.io/</link>
+      <pubDate>Sat, 25 Jun 2016 12:11:47 +0200</pubDate>
+      
+      <guid>https://sylcha.github.io/</guid>
+      <description>
+
+&lt;p&gt;L&amp;rsquo;objet de ce site est de fournir une approche rapide de Google Classroom.&lt;/p&gt;
+
+&lt;h2 id=&#34;qu-est-ce-que-google-classroom&#34;&gt;Qu&amp;rsquo;est-ce que Google Classroom ?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https:classroom.google.com&#34; target=&#34;_blank&#34;&gt;Google Classroom&lt;/a&gt; est un service de Google qui permet de créer et gérer des classes virtuelles. On peut considérer une &lt;em&gt;classroom&lt;/em&gt; comme un espace d&amp;rsquo;échange et de partage avec des fonctionnalités avancées.&lt;/p&gt;
+
+&lt;h2 id=&#34;première-fois&#34;&gt;Première fois&lt;/h2&gt;
+
+&lt;p&gt;Lorsqu&amp;rsquo;on se connecte pour la première fois au site &lt;a href=&#34;https:classroom.google.com&#34; target=&#34;_blank&#34;&gt;Google Classroom&lt;/a&gt;, l&amp;rsquo;interface nous demande de nous enregistrer au service comme &lt;em&gt;Enseignant&lt;/em&gt; ou comme &lt;em&gt;Élève&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/classroomdoc_premiere_connexion.png&#34; alt=&#34;Première connexion&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Il suffit de cliquer sur le statut qui nous correspond.&lt;/p&gt;
+
+&lt;h3 id=&#34;différents-statuts&#34;&gt;Différents statuts&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Enseignant&lt;/strong&gt; : c&amp;rsquo;est celui qui a créé la classe virtuelle. Il peut poster des messages, créer des devoirs, inviter des élèves. Il a l&amp;rsquo;autorisation de tout faire dans la classe, entre autre les droits de créer, modifier, supprimer, censurer,&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Élèves&lt;/strong&gt; : ce sont les utilisateurs qui se sont inscrits à la classe. Il ne peuvent que lire les messages postés sur la classe, participer aux devoirs et éventuellement chatter avec les autres utilisateurs de la classe.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On peut alors déjà commencer à s&amp;rsquo;inscrire à une classe en cliquant sur le signe &lt;code&gt;+&lt;/code&gt; à côté de notre adresse électronique (en haut à droite).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/classroomdoc_inscription.png&#34; alt=&#34;Inscription&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;admonition warning&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Activation du statut Enseignant&lt;/p&gt;
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;Il faut que l&amp;rsquo;administrateur du service Google Classroom (en l&amp;rsquo;occurence Marcin au LFV) valide le statut d&amp;rsquo;enseignant pour celui qui en a fait la requête. Bien vérifier que cela a été fait sinon vous ne pourrez pas créer de classe.&lt;/li&gt;
+&lt;li&gt;Si un élève clique  &lt;del&gt;en faisant exprès&lt;/del&gt; par erreur sur le bouton &lt;em&gt;Enseignant&lt;/em&gt;, il faudra que Marcin intervienne pour invalider son statut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;jargon&#34;&gt;Jargon&lt;/h2&gt;
+
+&lt;p&gt;Voici les termes utilisés par Google danas ce service et leur signification~:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Cours&lt;/strong&gt; : c&amp;rsquo;est ainsi que Google appelle la classe virtuelle.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Flux&lt;/strong&gt; : c&amp;rsquo;est l&amp;rsquo;endroit où tout ce qui va être publié dans le cours apparait.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Annonce&lt;/strong&gt; : c&amp;rsquo;est un message publié dans le flux du cours.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;fonctionnalités&#34;&gt;Fonctionnalités&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Informer&lt;/strong&gt; les participants à la classe (communiquer un lien, un fichier, une vidéo).&lt;/li&gt;
+&lt;li&gt;Poser une &lt;strong&gt;question&lt;/strong&gt; aux élèves de la classe (un genre de mini-sondage).&lt;/li&gt;
+&lt;li&gt;Donner un &lt;strong&gt;devoir&lt;/strong&gt; aux élèves de la classe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notifications automatiques&lt;/strong&gt; à chaque utilisateur lorsque quelque chose est publié dans la classe (via les adresses Gmail des utilisateurs).&lt;/li&gt;
+&lt;li&gt;Création automatique d&amp;rsquo;un &lt;strong&gt;agenda&lt;/strong&gt; avec la classe consultable par tous les utilisateurs de la classe. À chaque devoir créé, un événement est ajouté à l&amp;rsquo;agenda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;pour-aller-plus-loin&#34;&gt;Pour aller plus loin&lt;/h2&gt;
+
+&lt;p&gt;Pour des informations plus détaillées, vous pouver consulter la &lt;a href=&#34;https://support.google.com/edu/classroom/?hl=fr#topic=6020277&#34; target=&#34;_blank&#34;&gt;documentation officielle&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Créer une classe virtuelle</title>
+      <link>https://sylcha.github.io/creation/</link>
+      <pubDate>Sat, 25 Jun 2016 12:20:23 +0200</pubDate>
+      
+      <guid>https://sylcha.github.io/creation/</guid>
+      <description>
+
+&lt;p&gt;Pour créer un classe virtuelle, je clique sur le signe &lt;img src=&#34;../icons/plus.png&#34; alt=&#34;plus&#34; style=&#34;width: 20px;&#34;/&gt; en haut à droite à côté de mon adresse email.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_plus.png&#34; alt=&#34;Signe Plus&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je choisis alors l&amp;rsquo;option &lt;em&gt;Créer un cours&lt;/em&gt; dans le menu déroulant.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_creation.png&#34; alt=&#34;Cours Création&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;décider-d-un-nom&#34;&gt;Décider d&amp;rsquo;un nom&lt;/h2&gt;
+
+&lt;p&gt;Une fois que j&amp;rsquo;ai cliqué sur &lt;em&gt;Créer un cours&lt;/em&gt;, je dois nommer ce cours :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_nommer.png&#34; alt=&#34;Cours Nommer&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le choix du nom est important car il va décider du label du dossier dans Google Drive (voir &lt;a href=&#34;#nom_dossier&#34;&gt;plus loin&lt;/a&gt;). Il est crucial que tous les enseignants utilisent la même norme pour nommer ces cours afin que les élèves ne soient pas perdus.&lt;/p&gt;
+
+&lt;h3 id=&#34;norme-générale&#34;&gt;Norme générale&lt;/h3&gt;
+
+&lt;p&gt;J&amp;rsquo;utilise la norme suivante :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Nom du cours : &amp;lt;matiere&amp;gt;-&amp;lt;sous_matiere&amp;gt;
+Section : &amp;lt;niveau&amp;gt;&amp;lt;section&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Use Case&lt;/p&gt;
+&lt;p&gt;Je suis professeur de mathématiques. Je souhaite créer un espace de travail spécifique pour mon groupe d&amp;rsquo;AP de 6e B. Ainsi, mon cours s&amp;rsquo;intitulera :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Nom du cours : Maths-AP
+Section : 6B
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;j&amp;rsquo;arrive alors sur le mur de la classe : c&amp;rsquo;est ici que tout se passe, dans une seule page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_premiere.png&#34; alt=&#34;Cours Mur&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;symbiose-avec-le-drive&#34;&gt;Symbiose avec le Drive&lt;/h2&gt;
+
+&lt;p&gt;Le plus gros avantage à utiliser Google Classroom réside dans son intégration parfaite avec le système Google.&lt;/p&gt;
+
+&lt;h3 id=&#34;création-d-un-dossier-sur-le-drive-a-name-nom-dossier-a&#34;&gt;Création d&amp;rsquo;un dossier sur le Drive&lt;a name=&#34;nom_dossier&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;À peine le cours créé, j&amp;rsquo;ai un dossier &lt;code&gt;Classroom&lt;/code&gt; dans le Drive associé à mon adresse du LFV. Dans ce dossier, il y a un sous-dossier au nom du cours créé.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_drive.png&#34; alt=&#34;Cours Drive&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tous les documents que je partage avec les élèves iront dans ce dossiers et ne seront visibles que par eux. En effet, lorsque un élève rejoint le cours, il se passe la même chose pour lui : un dossier &lt;code&gt;Classroom&lt;/code&gt; est créé avec un sous-dossier au nom du cours.&lt;/p&gt;
+
+&lt;h3 id=&#34;création-d-un-agenda&#34;&gt;Création d&amp;rsquo;un agenda&lt;/h3&gt;
+
+&lt;p&gt;Avec le dossier dans le Drive, google crée aussi un agenda spécifique pour le cours. À chaque fois que je donnerai un devoir aux élèves, un événement sera créé dans cet agenda.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_agenda.png&#34; alt=&#34;Cours Agenda&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;description-de-l-interface&#34;&gt;Description de l&amp;rsquo;interface&lt;/h2&gt;
+
+&lt;h3 id=&#34;les-onglets&#34;&gt;Les onglets&lt;/h3&gt;
+
+&lt;p&gt;Trois onglets avec trois buts différents :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_onglets.png&#34; alt=&#34;Cours Onglets&#34; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Le &lt;strong&gt;Flux&lt;/strong&gt; : toutes les informations publiées sur le site sont ici, empilées de la plus ancienne à la plus récente (la dernière publication étant la première dans la liste)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Les &lt;strong&gt;Élèves&lt;/strong&gt; : la liste de tous les élèves inscrits dans ce cours.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;À propos&lt;/strong&gt; : des réglages et des informations additionnelles peuvent être ajoutées ici.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;réglages-de-l-apparence&#34;&gt;Réglages de l&amp;rsquo;apparence&lt;/h3&gt;
+
+&lt;p&gt;Sur la droite de la fenêtre, juste en dessous de l&amp;rsquo;adresse email, j&amp;rsquo;ai accès aux réglages du thème du cours : c&amp;rsquo;est là que je peux décider de la couleur, de la photo, etc. et personnaliser un peu mon cours. C&amp;rsquo;est important car sinon les élèves auront du mal à faire la différence avec les cours des autres professeurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_theme.png&#34; alt=&#34;Cours Themes&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;menu-général&#34;&gt;Menu général&lt;/h3&gt;
+
+&lt;p&gt;En haut à gauche de l&amp;rsquo;interface, j&amp;rsquo;ai un bouton &lt;img src=&#34;../images/classroomdoc_cours_menu1.png&#34; alt=&#34;Cours Menu1&#34; /&gt; qui permet de déployer un menu.&lt;/p&gt;
+
+&lt;!---
+![Cours Menu1](../images/classroomdoc_cours_menu2.png)
+--&gt;
+
+&lt;p&gt;Ce menu permet de naviguer facilement entre tous les cours, devoirs et aussi d&amp;rsquo;accéder aux paramètres.&lt;/p&gt;
+
+&lt;h3 id=&#34;ajouter-du-contenu&#34;&gt;Ajouter du contenu&lt;/h3&gt;
+
+&lt;p&gt;Enfin, sur la partie inférieure droite, on aperçoit un gros bouton marqué d&amp;rsquo;un &lt;img src=&#34;../icons/plus.png&#34; alt=&#34;plus&#34; style=&#34;width: 20px;&#34;/&gt;. En cliquant sur ce bouton, j&amp;rsquo;accède au menu des contenus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_ajouter_contenu.png&#34; alt=&#34;Cours Menu Contenu&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;comment-rejoindre-une-classe&#34;&gt;Comment rejoindre une classe ?&lt;/h2&gt;
+
+&lt;h3 id=&#34;les-élèves-s-inscrivent-tous-seuls&#34;&gt;Les élèves s&amp;rsquo;inscrivent tous seuls&lt;/h3&gt;
+
+&lt;p&gt;C&amp;rsquo;est la solution la plus confortable pour l&amp;rsquo;enseignant. Je donne le code de mon cours aux élèves que je souhaite inscrire. Je trouve ce code sur la droite de la partie &lt;em&gt;Flux&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_code.png&#34; alt=&#34;Cours Code&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;De leur côté, les élèves cliquent sur le img src=&amp;ldquo;../icons/plus.png&amp;rdquo; alt=&amp;ldquo;plus&amp;rdquo; style=&amp;ldquo;width: 20px;&amp;ldquo;/&amp;gt; à côté de leur adresse email (en haut à droite) et choisissent l&amp;rsquo;option &lt;em&gt;Se connecter à un cours&lt;/em&gt;. Ils doivent saisir le code dans cette fenêtre&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_rejoindre.png&#34; alt=&#34;Cours Code&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;inviter-des-élèves&#34;&gt;Inviter des élèves&lt;/h3&gt;
+
+&lt;p&gt;Ici, c&amp;rsquo;est l&amp;rsquo;enseignant qui invite les élèves à participer au cours. Pas besoin de code. Je clique sur l&amp;rsquo;onglet &lt;em&gt;Élèves&lt;/em&gt;. J&amp;rsquo;accède alors à cette partie du cours :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_inviter1.png&#34; alt=&#34;Cours Inviter1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En cliquant sur le bouton &lt;em&gt;Inviter&lt;/em&gt;, une fenêtre s&amp;rsquo;ouvre où je peux choisir les adresses des élèves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_inviter2.png&#34; alt=&#34;Cours Inviter2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Seuls les élèves ayant une adresse &lt;code&gt;*@lfv.pl&lt;/code&gt; pourront être inviter à rejoindre la classe.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Je tape le nom de l&amp;rsquo;élève dans le champ de recherche.&lt;/li&gt;
+&lt;li&gt;Je coche la case correspondant à l&amp;rsquo;adresse.&lt;/li&gt;
+&lt;li&gt;Je recommence avec un autre nom.&lt;/li&gt;
+&lt;li&gt;Une fois fini, je clique sur le bouton &lt;em&gt;Inviter les élèves&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Les élèves reçoivent alors un email d&amp;rsquo;invitation. Ils devront valider leur inscription au cours en cliquant sur le lien dans cet email.&lt;/p&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Adresses des élèves&lt;/p&gt;
+&lt;p&gt;Je ne peux pas faire de saisie d&amp;rsquo;adresse mais seulement choisir une adresse parmie une liste. C&amp;rsquo;est &lt;strong&gt;très&lt;/strong&gt; contraignant (il faut chercher les adresses une à une) mais cela permet à Google de s&amp;rsquo;assurer que les utilisateurs invités restent dans le giron des adresses du LFV.&lt;/p&gt;
+
+&lt;p&gt;Personnellement, j&amp;rsquo;utilise la formule précédente où chaque élève s&amp;rsquo;inscrit.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;comment-collaborer-à-un-cours&#34;&gt;Comment collaborer à un cours ?&lt;/h2&gt;
+
+&lt;p&gt;Il peut y avoir plusieurs enseignants qui participent ensemble à l&amp;rsquo;élaboration d&amp;rsquo;un cours (TPE, enseignement d&amp;rsquo;exploration en seconde, etc.). Le service Google Classroom permet de gérer cela. Moi qui ai créé le cours, je clique sur l&amp;rsquo;onglet &lt;em&gt;À propos&lt;/em&gt;. J&amp;rsquo;accède alors à un bouton &lt;em&gt;Inviter un enseignant&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_cours_inviter_prof.png&#34; alt=&#34;Cours Inviter Prof&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;enseignant invité aura bien évidemment le droit de publier dans mon cours.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Les Annonces</title>
+      <link>https://sylcha.github.io/messages/</link>
+      <pubDate>Sat, 25 Jun 2016 12:21:36 +0200</pubDate>
+      
+      <guid>https://sylcha.github.io/messages/</guid>
+      <description>
+
+&lt;p&gt;Une des premières choses que l&amp;rsquo;on peut souhaiter faire lorsqu&amp;rsquo;on utilise une classe virtuelle, c&amp;rsquo;est de partager une information avec ses élèves.&lt;/p&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Use Case&lt;/p&gt;
+&lt;p&gt;Je suis professeur de mathématiques et je veux montrer à mes élèves comment calculer la moyenne d&amp;rsquo;un série statistique avec la calculatrice. Seulement voilà, ils ont tous une calculatrice différente ! Je trouve sur Youtube des vidéos expliquant comment faire cela avec différents types de calculatrices. Je voudrais partager cette information avec mes élèves.&lt;/p&gt;
+
+&lt;p&gt;Comment faire ?&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;ma-première-annonce&#34;&gt;Ma première annonce&lt;/h2&gt;
+
+&lt;p&gt;Dans la partie &lt;em&gt;Flux&lt;/em&gt;, je clique sur le gros bouton marqué d&amp;rsquo;un signe &lt;img src=&#34;../icons/plus.png&#34; alt=&#34;plus&#34; style=&#34;width: 20px;&#34;/&gt; en bas à droite et je choisis &lt;em&gt;Créer une annonce&lt;/em&gt; dans la liste.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_post_menu.png&#34; alt=&#34;Post Menu&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Apparait la fenêtre suivante :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_post_fenetre.png&#34; alt=&#34;Post Fenetre&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dans la ligne marquée &lt;em&gt;Partager avec votre classe&lt;/em&gt;, je saisis l&amp;rsquo;information que je souhaite délivrer. Ensuite je vais insérer les liens des vidéos que j&amp;rsquo;ai trouvé sur internet. Pour cela, je clique sur le bouton &lt;img src=&#34;../icons/youtube.png&#34; alt=&#34;youtube&#34; style=&#34;width: 20px;&#34;/&gt;,  je saisis l&amp;rsquo;URL dans la partie prévue à cet effet dans la fenêtre qui est apparue et clique sur le bouton &lt;em&gt;Ajouter&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_post_video.png&#34; alt=&#34;Post Video&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si je souhaite ajouter un lien internet ou joindre un fichier du Drive ou même un fichier présent sur mon ordinateur, la procédure est la même, je clique juste sur le bouton correspondant à ce que je souhaite faire (Google Drive &lt;img src=&#34;../icons/google-drive.png&#34; alt=&#34;google-drive&#34; style=&#34;width: 20px;&#34;/&gt; etc.).&lt;/p&gt;
+
+&lt;p&gt;Une fois que mon annonce est rédigée, je clique sur le bouton &lt;em&gt;Post&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_post_annonce.png&#34; alt=&#34;Post Annonce&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;côté-élève&#34;&gt;Côté élève&lt;/h2&gt;
+
+&lt;h3 id=&#34;notification&#34;&gt;Notification&lt;/h3&gt;
+
+&lt;p&gt;Une fois l&amp;rsquo;annonce publiée, tous les élèves reçoivent une notification par email (à l&amp;rsquo;adresse du LFV) qu&amp;rsquo;une nouvelle annonce vient d&amp;rsquo;être publiée.  Cette option peut être désactivée.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_post_email.png&#34; alt=&#34;Post Email&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;commentaires&#34;&gt;Commentaires&lt;/h3&gt;
+
+&lt;p&gt;On peut remarquer que sous l&amp;rsquo;annonce, il y a une partie commentaire où par exemple un élève peut poser une question :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_post_comment.png&#34; alt=&#34;Post Commentaire&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ainsi les autres élèves profitent de la discussion, peuvent répondre aussi. Peut s&amp;rsquo;ensuivre une conversation riche en informations. Les autres élèves et le professeur reçoivent une notification comme quoi l&amp;rsquo;annonce a été commentée. Cette option peut elle aussi être désactivée.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_post_comment_notif.png&#34; alt=&#34;Post Commentaire&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;modifier-une-annonce&#34;&gt;Modifier une annonce&lt;/h2&gt;
+
+&lt;p&gt;Je me rends compte que j&amp;rsquo;ai fait une faute d&amp;rsquo;orthographe ! Ce n&amp;rsquo;est pas grave ! Il me suffit de modifier mon annonce&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Je clique sur les trois petits points en haut à droite de l&amp;rsquo;annonce et je choisis l&amp;rsquo;option &lt;em&gt;Modifier&lt;/em&gt; (je remarque que je pouvais aussi la supprimer).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_post_modif.png&#34; alt=&#34;Post Commentaire&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Une fois modifiée, je clique sur le bouton &lt;em&gt;Enregistrer&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Les Devoirs</title>
+      <link>https://sylcha.github.io/devoirs/</link>
+      <pubDate>Sat, 25 Jun 2016 12:21:48 +0200</pubDate>
+      
+      <guid>https://sylcha.github.io/devoirs/</guid>
+      <description>
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Use Case&lt;/p&gt;
+&lt;p&gt;Je suis professeur de mathématiques. J&amp;rsquo;ai créé un devoir pour évaluer mes élèves en statistiques.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_sujet.png&#34; alt=&#34;Devoir Sujet&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Comment envoyer ce devoir aux élèves afin qu&amp;rsquo;ils puissent le faire dans la classe virtuelle ?&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;créer-un-devoir&#34;&gt;Créer un devoir&lt;/h2&gt;
+
+&lt;p&gt;Je dois commencer par créer un devoir. Pour cela, je clique sur le bouton marqué d&amp;rsquo;un signe &lt;img src=&#34;../icons/plus.png&#34; alt=&#34;plus&#34; style=&#34;width: 20px;&#34;/&gt; en bas à droite et je choisis &lt;em&gt;Élaborer un devoir&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_creation.png&#34; alt=&#34;Devoir Sujet&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Une fenêtre apparait dans laquelle je vais donner les instructions pour le devoir.&lt;/p&gt;
+
+&lt;h3 id=&#34;instructions-du-devoir&#34;&gt;Instructions du devoir&lt;/h3&gt;
+
+&lt;p&gt;Je commence par donner un titre à mon devoir. Ensuite je rédige les instructions. Généralement, mes instructions sont sur un document séparé. Je vais donc chercher le document sur Google Drive en cliquant sur l&amp;rsquo;icône &lt;img src=&#34;../icons/google-drive.png&#34; alt=&#34;google-drive&#34; style=&#34;width: 20px;&#34;/&gt;. Je retrouve mon devoir dans la fenêtre qui apparait.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_fenetre_drive.png&#34; alt=&#34;Devoir Fenetre Drive&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je décide à présent d&amp;rsquo;une date de remise du devoir&lt;sup id=&#34;note1&#34;&gt;&lt;a href=&#34;#f1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; (je pourrais aussi régler l&amp;rsquo;heure).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_date.png&#34; alt=&#34;Devoir Choix Date&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ensuite, pour ce devoir, je souhaite que les élèves rédigent directement leurs réponses sur le sujet. Ils doivent donc avoir chacun leur propre copie du document (un peu comme des photocopies qu&amp;rsquo;on distriburait en classe réelle). Je choisis donc &lt;em&gt;Faire une copie par élève&lt;/em&gt; dans le menu déroulant de droite :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_une_copie_par_eleve.png&#34; alt=&#34;Devoir Copie eleve&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Une fois tout cela terminé, je peux publier mon devoir. Je clique sur le bouton &lt;em&gt;Créer un devoir&lt;/em&gt;. Mon devoir apparait dans mon flux :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_publiee_prof.png&#34; alt=&#34;Devoir Publiée Prof&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;côté-élève&#34;&gt;Côté élève&lt;/h2&gt;
+
+&lt;p&gt;Aussitôt le devoir créé, les élèves reçoivent une notification par email :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_notif_eleve.png&#34; alt=&#34;Devoir Notification Eleve&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Un événement est automatiquement créé dans leur agenda :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_notif_agenda.png&#34; alt=&#34;Devoir Agenda&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Depuis ces deux endroits, mais aussi évidemment depuis le flux associé au cours, les élèves accèdent à leur devoir.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_publiee_eleve.png&#34; alt=&#34;Devoir Publication ELeve&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;faire-le-devoir&#34;&gt;Faire le devoir&lt;/h3&gt;
+
+&lt;p&gt;Pour pouvoir faire leur devoir, l&amp;rsquo;élève doit cliquer sur le bouton &lt;em&gt;Ouvrir&lt;/em&gt;.
+(Dans son interface, le professeur voit que l&amp;rsquo;élève a commencé son devoir.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_ouvert.png&#34; alt=&#34;Devoir Ouvert&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On peut voir qu&amp;rsquo;il peut ouvrir le sujet&lt;sup id=&#34;note2&#34;&gt;&lt;a href=&#34;#f2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; mais aussi ajouter une pièce jointe ou créer un document Google.&lt;/p&gt;
+
+&lt;p&gt;Tout le temps de sa rédaction, l&amp;rsquo;élève peut recevoir des commentaires du professeur sur son devoir (annotation à côté de certains paragraphes) :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_commentaire_eleve.png&#34; alt=&#34;Devoir Commentaire Eleve&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Une fois que son devoir sera terminé, il cliquera sur le bouton &lt;em&gt;Rendre le devoir&lt;/em&gt;. Lorsque ce bouton est pressé, plus de retour en arrière possible : l&amp;rsquo;élève ne peut plus modifier son document, seul le professeur le peut.&lt;/p&gt;
+
+&lt;h2 id=&#34;gérer-les-devoirs&#34;&gt;Gérer les devoirs&lt;/h2&gt;
+
+&lt;p&gt;Je clique sur le menu Devoir &lt;img src=&#34;../images/classroomdoc_cours_menu1.png&#34; alt=&#34;Devoir Menu&#34; /&gt; en haut à gauche de l&amp;rsquo;interface et je choisis &lt;em&gt;Devoirs&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_menu.png&#34; alt=&#34;Devoir Menu&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;accède ainsi à la liste de tous les devoirs dans tous les cours. Le dernier devoir créé apparait en haut de la liste :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_liste.png&#34; alt=&#34;Devoir Liste&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En cliquant sur le titre de ce devoir, j&amp;rsquo;accède à la liste de tous les élèves. Je sais exactement qui a fait le devoir, qui est en train de le faire et qui ne l&amp;rsquo;a pas encore regardé.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_rendre.png&#34; alt=&#34;Devoir Rendre&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;suivi-des-devoirs&#34;&gt;Suivi des devoirs&lt;/h3&gt;
+
+&lt;p&gt;Pendant que les élèves font leur travail, je peux accéder à leur copie, voir l&amp;rsquo;avancement des travaux&amp;hellip; Je clique sur le devoir d&amp;rsquo;un élève qui s&amp;rsquo;ouvre. Je peux lui mettre des annotations directement sur sa copie par exemple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_commentaire.png&#34; alt=&#34;Devoir Ouvert&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;noter-les-devoirs&#34;&gt;Noter les devoirs&lt;/h3&gt;
+
+&lt;p&gt;Lorsque le devoir est rendu par l&amp;rsquo;élève, il est temps de le noter ! Je peux décider de la note (par défaut sur 100 points).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_note_changer.png&#34; alt=&#34;Devoir Changer Note&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je saisie la note dans le champs à côté du nom de l&amp;rsquo;élève dans la liste de gauche. Lorsque la note est entrée, le nom de l&amp;rsquo;élève est sélectionné, prêt à rendre la copie. Si je corrige et note d&amp;rsquo;autres copies, le nom des élèves se sélectionne au fur et à mesure.&lt;/p&gt;
+
+&lt;p&gt;Lorsque je clique sur le bouton &lt;em&gt;Rendre&lt;/em&gt; je peux joindre un commentaire particulier (si je rends une seule copie) ou général (si je rends toutes les copies en même temps).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_rendre_comment.png&#34; alt=&#34;Devoir Rendre Commentaire&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Une fois le devoir rendu, l&amp;rsquo;élève reçoit une notification par email avec sa note.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_devoir_note_email.png&#34; alt=&#34;Devoir Note Email&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;élève peut à nouveau modifier son devoir pour le corriger par exemple&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;récupérer-les-notes&#34;&gt;Récupérer les notes&lt;/h2&gt;
+
+&lt;p&gt;En haut à droite de la liste des devoirs, si je clique sur l&amp;rsquo;engrenage &lt;img src=&#34;../icons/cog.png&#34; alt=&#34;cog&#34; /&gt; et je choisis le type de fichier sous lequel je veux récupérer ma liste de notes (Google Sheet ou CSV)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/classroomdoc_question_notes_tableau.png&#34; alt=&#34;Question Note Tableau&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b id=&#34;f1&#34;&gt;1.&lt;/b&gt; Décider de la date de remise n&amp;rsquo;implique pas que les élèves ne pourront pas le remettre hors délais. Leur devoir aura juste la mention &lt;em&gt;En retard&lt;/em&gt;. &lt;a href=&#34;#note1&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b id=&#34;f2&#34;&gt;2.&lt;/b&gt; Remarquez le nom bizzare du sujet : &lt;em&gt;Copie de [Template] Copie de &amp;hellip;&lt;/em&gt;. C&amp;rsquo;est une bizarrerie du système. C&amp;rsquo;est moche et ce sera sans doute changé dans les prochaines versions de Google Classroom. &lt;a href=&#34;#note2&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Licence</title>
+      <link>https://sylcha.github.io/licence/</link>
+      <pubDate>Sun, 26 Jun 2016 23:08:24 +0200</pubDate>
+      
+      <guid>https://sylcha.github.io/licence/</guid>
+      <description>
+
+&lt;h2 id=&#34;creative-commons&#34;&gt;creative commons&lt;/h2&gt;
+
+&lt;h1 id=&#34;attribution-noncommercial-sharealike-4-0-international&#34;&gt;Attribution-NonCommercial-ShareAlike 4.0 International&lt;/h1&gt;
+
+&lt;p&gt;Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.&lt;/p&gt;
+
+&lt;h3 id=&#34;using-creative-commons-public-licenses&#34;&gt;Using Creative Commons Public Licenses&lt;/h3&gt;
+
+&lt;p&gt;Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Considerations for licensors:&lt;/strong&gt; Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. &lt;a href=&#34;http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors&#34; target=&#34;_blank&#34;&gt;More considerations for licensors&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Considerations for the public:&lt;/strong&gt; By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. &lt;a href=&#34;http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees&#34; target=&#34;_blank&#34;&gt;More considerations for the public&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;creative-commons-attribution-noncommercial-sharealike-4-0-international-public-license&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License&lt;/h2&gt;
+
+&lt;p&gt;By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (&amp;ldquo;Public License&amp;rdquo;). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.&lt;/p&gt;
+
+&lt;h3 id=&#34;section-1-definitions&#34;&gt;Section 1 – Definitions.&lt;/h3&gt;
+
+&lt;p&gt;a. &lt;strong&gt;Adapted Material&lt;/strong&gt; means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.&lt;/p&gt;
+
+&lt;p&gt;b. &lt;strong&gt;Adapter&amp;rsquo;s License&lt;/strong&gt; means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.&lt;/p&gt;
+
+&lt;p&gt;c. &lt;strong&gt;BY-NC-SA Compatible License&lt;/strong&gt; means a license listed at &lt;a href=&#34;http://creativecommons.org/compatiblelicenses&#34; target=&#34;_blank&#34;&gt;creativecommons.org/compatiblelicenses&lt;/a&gt;, approved by Creative Commons as essentially the equivalent of this Public License.&lt;/p&gt;
+
+&lt;p&gt;d. &lt;strong&gt;Copyright and Similar Rights&lt;/strong&gt; means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.&lt;/p&gt;
+
+&lt;p&gt;e. &lt;strong&gt;Effective Technological Measures&lt;/strong&gt; means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.&lt;/p&gt;
+
+&lt;p&gt;f. &lt;strong&gt;Exceptions and Limitations&lt;/strong&gt; means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.&lt;/p&gt;
+
+&lt;p&gt;g. &lt;strong&gt;License Elements&lt;/strong&gt; means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution, NonCommercial, and ShareAlike.&lt;/p&gt;
+
+&lt;p&gt;h. &lt;strong&gt;Licensed Material&lt;/strong&gt; means the artistic or literary work, database, or other material to which the Licensor applied this Public License.&lt;/p&gt;
+
+&lt;p&gt;i. &lt;strong&gt;Licensed Rights&lt;/strong&gt; means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.&lt;/p&gt;
+
+&lt;p&gt;h. &lt;strong&gt;Licensor&lt;/strong&gt; means the individual(s) or entity(ies) granting rights under this Public License.&lt;/p&gt;
+
+&lt;p&gt;i. &lt;strong&gt;NonCommercial&lt;/strong&gt; means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.&lt;/p&gt;
+
+&lt;p&gt;j. &lt;strong&gt;Share&lt;/strong&gt; means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.&lt;/p&gt;
+
+&lt;p&gt;k. &lt;strong&gt;Sui Generis Database Rights&lt;/strong&gt; means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.&lt;/p&gt;
+
+&lt;p&gt;l. &lt;strong&gt;You&lt;/strong&gt; means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.&lt;/p&gt;
+
+&lt;h3 id=&#34;section-2-scope&#34;&gt;Section 2 – Scope.&lt;/h3&gt;
+
+&lt;p&gt;a. &lt;strong&gt;&lt;em&gt;License grant.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and&lt;/p&gt;
+
+&lt;p&gt;B. produce, reproduce, and Share Adapted Material for NonCommercial purposes only.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Exceptions and Limitations.&lt;/strong&gt; For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Term.&lt;/strong&gt; The term of this Public License is specified in Section 6(a).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Media and formats; technical modifications allowed.&lt;/strong&gt; The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Downstream recipients.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A. &lt;strong&gt;Offer from the Licensor – Licensed Material.&lt;/strong&gt; Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.&lt;/p&gt;
+
+&lt;p&gt;B. &lt;strong&gt;Additional offer from the Licensor – Adapted Material.&lt;/strong&gt; Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.&lt;/p&gt;
+
+&lt;p&gt;C. &lt;strong&gt;No downstream restrictions.&lt;/strong&gt; You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;No endorsement.&lt;/strong&gt; Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;b. &lt;strong&gt;&lt;em&gt;Other rights.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Patent and trademark rights are not licensed under this Public License.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;section-3-license-conditions&#34;&gt;Section 3 – License Conditions.&lt;/h3&gt;
+
+&lt;p&gt;Your exercise of the Licensed Rights is expressly made subject to the following conditions.&lt;/p&gt;
+
+&lt;p&gt;a. &lt;strong&gt;&lt;em&gt;Attribution.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If You Share the Licensed Material (including in modified form), You must:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A. retain the following if it is supplied by the Licensor with the Licensed Material:&lt;/p&gt;
+
+&lt;p&gt;i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);&lt;/p&gt;
+
+&lt;p&gt;ii. a copyright notice;&lt;/p&gt;
+
+&lt;p&gt;iii. a notice that refers to this Public License;&lt;/p&gt;
+
+&lt;p&gt;iv. a notice that refers to the disclaimer of warranties;&lt;/p&gt;
+
+&lt;p&gt;v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;&lt;/p&gt;
+
+&lt;p&gt;B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and&lt;/p&gt;
+
+&lt;p&gt;C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;b. &lt;strong&gt;&lt;em&gt;ShareAlike.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You must include the text of, or the URI or hyperlink to, the Adapter&amp;rsquo;s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter&amp;rsquo;s License You apply.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;section-4-sui-generis-database-rights&#34;&gt;Section 4 – Sui Generis Database Rights.&lt;/h3&gt;
+
+&lt;p&gt;Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:&lt;/p&gt;
+
+&lt;p&gt;a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;&lt;/p&gt;
+
+&lt;p&gt;b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and&lt;/p&gt;
+
+&lt;p&gt;c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.&lt;/p&gt;
+
+&lt;p&gt;For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.&lt;/p&gt;
+
+&lt;h3 id=&#34;section-5-disclaimer-of-warranties-and-limitation-of-liability&#34;&gt;Section 5 – Disclaimer of Warranties and Limitation of Liability.&lt;/h3&gt;
+
+&lt;p&gt;a. &lt;strong&gt;Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;b. &lt;strong&gt;To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.&lt;/p&gt;
+
+&lt;h3 id=&#34;section-6-term-and-termination&#34;&gt;Section 6 – Term and Termination.&lt;/h3&gt;
+
+&lt;p&gt;a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.&lt;/p&gt;
+
+&lt;p&gt;b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;upon express reinstatement by the Licensor.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.&lt;/p&gt;
+
+&lt;p&gt;c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.&lt;/p&gt;
+
+&lt;p&gt;d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.&lt;/p&gt;
+
+&lt;h3 id=&#34;section-7-other-terms-and-conditions&#34;&gt;Section 7 – Other Terms and Conditions.&lt;/h3&gt;
+
+&lt;p&gt;a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.&lt;/p&gt;
+
+&lt;p&gt;b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.&lt;/p&gt;
+
+&lt;h3 id=&#34;section-8-interpretation&#34;&gt;Section 8 – Interpretation.&lt;/h3&gt;
+
+&lt;p&gt;a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.&lt;/p&gt;
+
+&lt;p&gt;b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.&lt;/p&gt;
+
+&lt;p&gt;c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.&lt;/p&gt;
+
+&lt;p&gt;d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at &lt;a href=&#34;http://creativecommons.org/policies&#34; target=&#34;_blank&#34;&gt;creativecommons.org/policies&lt;/a&gt;, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.&lt;/p&gt;
+
+&lt;p&gt;Creative Commons may be contacted at creativecommons.org&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
