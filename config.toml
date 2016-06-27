@@ -1,4 +1,4 @@
-baseurl = "http://sylcha.github.io/"
+baseurl = "https://sylcha.github.io/"
 contentdir = "content/google_classroom_doc/"
 languageCode = "fr-fr"
 title = "Utiliser Google Classroom"
